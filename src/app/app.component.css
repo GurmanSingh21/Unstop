@@ -1,0 +1,9 @@
+.booked {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .available {
+    color: green;
+  }
+  
